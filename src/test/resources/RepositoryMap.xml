@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+    <windows>
+        <driver id="googlechrome">
+            <version id="80.0.3987.16">
+                <bitrate thirtytwobit="true" sixtyfourbit="true">
+			<filelocation>https://scrmfs.bsc.bscal.com/maven_central/repository/dev_tools/selenium_standalone_zips/windows/chromedriver_win32_LATEST.zip</filelocation>
+                    <hash>b52ca785707eade99c56309ce9d66c1177b5d4a9</hash>
+                    <hashtype>sha1</hashtype>
+                </bitrate>
+            </version>
+        </driver>
+    </windows>
+    <linux>
+    </linux>
+    <osx>
+    </osx>
+</root>
